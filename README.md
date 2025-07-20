@@ -20,10 +20,10 @@
 ## 🛠️ Tech Toolbox
 
 ### 💻 Programming
-![Python]([https://img.shields.io/badge/-Python-333?style=flat&logo=python](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif))
+![Python](https://github.com/goelkannan/goelkannan/blob/main/python.gif)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
-![JavaScript]([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif))
+![JavaScript](https://github.com/goelkannan/goelkannan/blob/main/JavaScript.gif)
 
 ### 🤖 AI/ML
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn)
