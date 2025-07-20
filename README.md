@@ -3,7 +3,7 @@
 ### 🎓 CS Undergrad @ Thapar Institute | 🧠 ML + CV Enthusiast | 🧰 Building real-time intelligent systems
 
 <p align="center">
-  <img src="https://github.com/goelkannan/goelkannan/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" alt="Coding animation"/>
+  <img src="https://github.com/goelkannan/goelkannan/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width  = "500 alt="Coding animation"/>
 </p>
 
 ---
