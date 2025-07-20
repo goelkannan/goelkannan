@@ -10,7 +10,7 @@
 
 ## 🚀 Current Focus
 
-- 🔍 Building a **Real-Time Face-Based Concentration Tracker** using OpenCV + MediaPipe
+- 💼 Currently interning at **[Blinkit](https://blinkit.com/)** as an **Analyst Intern** (June–July 20250
 - 🔄 Integrating **Golang APIs** for fast backend data processing
 - 🤖 Working on machine learning models for anomaly & fraud detection
 - 📈 Exploring federated learning and system-level ML
@@ -20,10 +20,10 @@
 ## 🛠️ Tech Toolbox
 
 ### 💻 Programming
-![Python](https://github.com/goelkannan/goelkannan/blob/main/python.gif)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
-![JavaScript](https://github.com/goelkannan/goelkannan/blob/main/JavaScript.gif)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 
 ### 🤖 AI/ML
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn)
