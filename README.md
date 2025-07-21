@@ -94,9 +94,8 @@ A face-based real-time attention monitoring system using:
 
 ---
 
-## 📖 Quote I Live By
 
-> "Real intelligence is not in predicting the future, but reacting to the present with awareness."
+> "The people who are crazy enough to think they can change the world are the ones that do." - Steve Jobs
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
