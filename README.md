@@ -80,7 +80,6 @@ A face-based real-time attention monitoring system using:
 
 ## 📊 GitHub Stats
 
-![Kannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=goelkannan&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goelkannan&layout=compact&theme=gruvbox)
 
 ---
