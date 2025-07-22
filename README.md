@@ -53,28 +53,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
 
----
-
-## 📂 Featured Projects
-
-### 🧠 Concentration Tracker  
-A face-based real-time attention monitoring system using:
-- **OpenCV + MediaPipe** for facial landmark tracking
-- **Blink, gaze & head pose detection**
-- Live score bar, alerts, and distraction tracking
-
-> 🛠️ Tech: Python, OpenCV, MediaPipe, NumPy
-
-### 💳 Credit Card Fraud Detection  
-- Built classification models with **Random Forest, Logistic Regression**, and **Decision Trees**
-- Applied **undersampling & ensemble methods** for imbalance handling
-- Achieved **93%+ accuracy**
-
-> 🛠️ Tech: Python, scikit-learn, pandas, matplotlib
-
-### 📈 Sales Dashboard Analysis  
-- Created **interactive Tableau dashboards** with SQL integration
-- Automated data pipelines for live sales updates and actionable insights
 
 ---
 
