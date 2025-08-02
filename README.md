@@ -10,7 +10,7 @@
 
 ## 🚀 Current Focus
 
-- 💼 Currently interning at **[Blinkit](https://blinkit.com/)** as an **Analyst Intern** (June–July 2025)
+- 💼 Interned at **[Blinkit](https://blinkit.com/)** as an **Analyst Intern** (June–July 2025)
 - 🔄 Integrating **Golang APIs** for fast backend data processing
 - 🤖 Working on machine learning models for anomaly & fraud detection
 - 📈 Exploring federated learning and system-level ML
